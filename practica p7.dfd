@@ -1,0 +1,69 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'SEÑOR USUARIO DIGITE SU SEXO'
+5
+1
+4
+sexo
+4
+1
+31
+'DIGITE EL VALOR DE LA COMPRA '
+5
+1
+5
+valor
+7
+0
+1
+12
+valor>100000
+4
+1
+36
+' EL VALOR DE SU COMPRA ES ' , valor
+13
+7
+0
+1
+6
+sexo=1
+6
+2
+6
+mujer1
+9
+valor*0.1
+5
+total
+12
+mujer1-valor
+4
+1
+92
+' SEÑOR USUARIO ESTAMOS POR SER MUJER TIENE EL DESCUETO DEL 10% SU COMPRA QUEDA EN ' , total
+13
+6
+2
+7
+hombre1
+9
+valor*0.2
+5
+total
+13
+hombre1-valor
+4
+1
+80
+'SEÑOR USUCARIO USTED ES TIENE EL DESCUENTO DEL 20% SU COMPRA QUEDO EN ' , total
+13
+13
+1
